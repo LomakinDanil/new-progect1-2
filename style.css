@@ -7,3 +7,6 @@ p {
     color: coral;
     text-decoration: line-through;
 }
+* {
+    text-decoration: none;
+}
